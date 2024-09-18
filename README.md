@@ -1,6 +1,6 @@
 ![logo](https://github.com/namratajadhav04/namratajadhav04/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Namrata Jadhav</h1>
-<h3 align="center">🚀 Front End Developer | 🌐 Open Source Contributor</h3>
+<h3 align="center">🚀 FullStack Developer | 🌐 Open Source Contributor</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*89xL_--7GIoVjXairvk-1w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namratajadhav04&label=Profile%20views&color=0e75b6&style=flat" alt="namratajadhav04" /> </p>
